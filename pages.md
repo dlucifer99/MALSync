@@ -1463,7 +1463,14 @@
     <td>:heavy_check_mark:</td>
     <td>:x:</td>
     <td>:x:</td>
-  </tr>
+  </tr><tr>
+    <td><a href="https://toonitube.com/"><img src="https://favicon.malsync.moe/?domain=https://toonitube.com/"> TOONITUBE</a></td>
+    <td>English</td>
+    <td>:heavy_check_mark:</td>
+    <td>:heavy_check_mark:</td>
+    <td>:x:</td>
+    <td>:x:</td>
+</tr>
     </tbody>
   </table>
   
